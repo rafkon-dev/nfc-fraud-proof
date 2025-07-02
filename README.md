@@ -26,6 +26,7 @@ This is a proof-of-concept for **abusing the trust model** behind NFC contactles
 
 - `nfc-fraud-proof.txt` – Polish version of the original concept (UTF-16)
 - `article.md` – Extended technical article (Markdown, English)
+- `article-pl.md` - Extended technical article (Markdown, Polish)
 
 ---
 

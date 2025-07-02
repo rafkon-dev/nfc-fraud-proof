@@ -1,7 +1,7 @@
 # 🔒 NFC Fraud: A Proof-of-Concept You Shouldn't Ignore
 
 **Author:** Rafał Konieczek  
-**Date:** [Insert publication date here]  
+**Date:** 02.07.2025  
 **Support:** [Buy me a coffee](https://www.buymeacoffee.com/rafal)
 
 ---
